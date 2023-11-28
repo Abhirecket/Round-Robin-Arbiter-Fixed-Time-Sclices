@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../round_robin_arbiter_fixed_time_slices.srcs/sources_1/new/top.v" \
+"../../../../round_robin_arbiter_fixed_time_slices.srcs/sim_1/new/tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
