@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
+// Company: COLLEGE OF VLSI
+// Engineer: ABHISHEK KUMAR KUSHWAHA
 // 
 // Create Date: 15.11.2023 12:34:40
 // Design Name: 
